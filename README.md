@@ -18,7 +18,7 @@ Design Pattern (repository pattern) and Object-Oriented Programming (OOP) are us
 
 
 Click here -
-[Client Side Github Link](https://github.com/rabbiincode/peer-to-peer-money-transfer-application)
+[Client Side Github Link](https://github.com/rabbiincode/P2P-app)
 ## Project Description
 
 This is a P-2-P money transfer application API
